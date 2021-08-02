@@ -1,0 +1,23 @@
+{
+	"Authors": [
+		"Sen Wan",
+		"Feng Bao",
+		"Chen Yao",
+		"Fengpeng Wang",
+		"Bohan Li",
+		"Shi Mao",
+		"Wendi Yu",
+		"Kexin Zhang",
+		"Youyong Kong",
+		"Xiaobin Zhang",
+		"Xiaoping Du",
+		"Xiaodong Cai",
+		"Lu Fang",
+		"Yue Deng",
+		"Yi Yao",
+		"Qionghai Dai"
+	],
+	"BIDSVersion": "1.2",
+	"License": "MIT",
+	"Name": "Conscious-SEEG-Dataset"
+}
