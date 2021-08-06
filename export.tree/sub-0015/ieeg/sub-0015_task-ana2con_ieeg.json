@@ -1,0 +1,17 @@
+{
+	"ECGChannelCount": 0,
+	"ECOGChannelCount": 0,
+	"EEGChannelCount": 168,
+	"EMGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"EpochLength": 2105.03,
+	"MiscChannelCount": 0,
+	"PowerLineFrequency": 50,
+	"RecordingDuration": 2105.03,
+	"SEEGChannelCount": 0,
+	"SamplingFrequency": 500,
+	"SoftwareFilters": "n\/a",
+	"TaskName": "ana2con",
+	"TriggerChannelCount": 0,
+	"iEEGReference": "n\/a"
+}
